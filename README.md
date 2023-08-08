@@ -1,10 +1,12 @@
 # Deep-audio-classifier
 Audio classifying using machine learning
 
+Dataset link: https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
+
 ![dac](https://github.com/DoollaVenkatasatya/Deep-audio-classifier/assets/137089784/65e19076-3ade-47f9-8c3a-0d1765a9e4f3)
 
 
-This repository is a detailed script for processing audio data, training a model, making predictions, and exporting the results to a CSV file. This script is designed for a binary audio classification task where you're trying to detect specific sounds (capuchin calls) within forest recordings. Here's an overview of what the script does:
+This repository is a detailed script for processing audio data, training a model, making predictions, and exporting the results to a CSV file. This script is designed for a binary audio classification task where we are trying to detect specific sounds (capuchin calls) within forest recordings. Here's an overview of what the script does:
 
 Data Preparation:
 
